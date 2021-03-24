@@ -1,0 +1,10 @@
+repositories/report/ReportRepositoryMySQLTest.java
+ repositories.report.ReportRepositoryMySQLTest
+services/account/AccountServiceMySQLTest.java
+ services.account.AccountServiceMySQLTest
+services/client/ClientServiceMySQLTest.java
+ services.client.ClientServiceMySQLTest
+repositories/account/AccountRepositoryMySQLTest.java
+ repositories.account.AccountRepositoryMySQLTest
+services/user/AuthenticationServiceMySQLTest.java
+ services.user.AuthenticationServiceMySQLTest
